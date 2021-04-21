@@ -6,8 +6,8 @@ header("Access-Control-Allow-Methods: GET");
 header("Access-Control-Allow-Headers: Origin, X-Request-With, Content-Type, Accept");
 header("Referrer-Policy: no-referrer");
 
-$first_names = ["Ålen", "Pållen", "Bön-Marie", "Gert-Åke", "fem", "sex", "sju", "åtta", "nio", "tio"];
-$last_names = ["Ökänd", "Ålborg", "Ek", "Wök", "a1", "b2", "c3", "d4", "e5", "f6"];
+$first_names = ["Ålen", "Pållen", "Bön-Marie", "Gert-Åke", "Blixten", "Vemvare", "sju", "åtta", "nio", "tio"];
+$last_names = ["Ökänd", "Ålborg", "Ek", "Wök", "Snabbsson", "Somtognamnet", "c3", "d4", "e5", "f6"];
 
 $names = [];
 
